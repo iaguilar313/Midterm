@@ -1,0 +1,7 @@
+C:\Users\Irvin\source\repos\Midterm Project\Midterm Project\obj\Debug\Midterm Project.csprojResolveAssemblyReference.cache
+C:\Users\Irvin\source\repos\Midterm Project\Midterm Project\obj\Debug\Midterm Project.csproj.CoreCompileInputs.cache
+C:\Users\Irvin\source\repos\Midterm Project\Midterm Project\bin\Debug\Midterm Project.exe.config
+C:\Users\Irvin\source\repos\Midterm Project\Midterm Project\bin\Debug\Midterm Project.exe
+C:\Users\Irvin\source\repos\Midterm Project\Midterm Project\bin\Debug\Midterm Project.pdb
+C:\Users\Irvin\source\repos\Midterm Project\Midterm Project\obj\Debug\Midterm Project.exe
+C:\Users\Irvin\source\repos\Midterm Project\Midterm Project\obj\Debug\Midterm Project.pdb
